@@ -1,0 +1,8 @@
+body {
+  background-color: whitesmoke;
+}
+
+.search {
+  display: flex;
+  flex-wrap: wrap;
+}
